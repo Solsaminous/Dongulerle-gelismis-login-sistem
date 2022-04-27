@@ -2,7 +2,7 @@ print("**********\nKullanıcı Girişi\n**********\n")
 
 
 
-sys_kul_adı = "can"
+sys_kul_adı = "solsaminous"
 
 sys_parola  = "12345"
 
